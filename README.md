@@ -1,0 +1,2 @@
+# Bad-Passwords
+Almost every web service you join will require one to come up with a password. But what makes a good password? In June 2017 the National Institute of Standards and Technology (NIST) published publication 800-63B titled Digital Identity Guidelines: Authentication and Lifecycle Management. This publication doesn't tell us what is a good password, but it does have specific rules for what is a bad password.  In this project, I took a list of user passwords and, using publication 800-63B, I wrote a code that automatically detects and flags the bad passwords.
